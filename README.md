@@ -16,7 +16,7 @@ My personally curated collection of web design and development resources! (Updat
 
 ### Education
 
-- *Coming soon!*
+- [Web Designer News](https://www.webdesignernews.com/)
 
 ### Challenges
 
@@ -38,6 +38,24 @@ My personally curated collection of web design and development resources! (Updat
 
 - [Google Fonts](https://fonts.google.com/)
 
+### Images
+
+- [Unsplash](https://unsplash.com/)
+
+- [Pexels](https://www.pexels.com/)
+
+### Graphics
+
+- [Undraw](https://undraw.co/)
+
+- [Storytale](https://storytale.io/)
+
+- [remove.bg](https://www.remove.bg/)
+
+### Icons
+
+- [Font Awesome](https://fontawesome.com/)
+
 ### Find Work
 
 - *Coming soon!*
@@ -45,6 +63,10 @@ My personally curated collection of web design and development resources! (Updat
 ---
 
 ## **Development**
+
+### Tools
+
+- [CodeKit](https://codekitapp.com/)
 
 ### Editors/IDE's
 
@@ -118,6 +140,14 @@ My personally curated collection of web design and development resources! (Updat
 
 - [Stack Overflow](https://stackoverflow.com/)
 
+- [daily.dev](https://app.daily.dev/)
+
+- [JavaScript in Plain English](https://javascript.plainenglish.io/)
+
+- [CSS Layout](https://csslayout.io/)
+
+- [Front-End Checklist](https://frontendchecklist.io/)
+
 ### Challenges
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
@@ -134,25 +164,27 @@ My personally curated collection of web design and development resources! (Updat
 
 - [Frontend Practice](https://www.frontendpractice.com/)
 
-### Assets
+### CSS Extension Languages
 
-#### Fonts
+- [Sass](https://sass-lang.com/)
+
+### CSS Frameworks
+
+- [Tailwind CSS](https://tailwindcss.com/)
+
+### Fonts
 
 - [Google Fonts](https://fonts.google.com/)
 
-#### Images
-
-- [Unsplash](https://unsplash.com/)
-
-- [Pexels](https://www.pexels.com/)
-
-#### Graphics
-
-- [Undraw](https://undraw.co/)
-
-#### Icons
+### Icons
 
 - [Font Awesome](https://fontawesome.com/)
+
+### Content Management Systems
+
+- [WordPress](https://wordpress.org/download/)
+
+- [Shopify](https://www.shopify.com/)
 
 ### Version Control
 
@@ -161,6 +193,26 @@ My personally curated collection of web design and development resources! (Updat
 - [GitHub](https://github.com/)
 
 - [GitHub Desktop](https://desktop.github.com/)
+
+### Cross Browser Testing
+
+- [LamdaTest](https://www.lambdatest.com/)
+
+### Browser Extensions (Chrome)
+
+- [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
+
+- [Fonts Ninja](https://www.fonts.ninja/)
+
+- [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)
+
+- [LamdaTest](https://chrome.google.com/webstore/detail/lambdatest/fjcjehbiabkhkdbpkenkhaahhopildlh)
+
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
+
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+
+- [Wappalyzer](https://www.wappalyzer.com/)
 
 ### Find Work
 
