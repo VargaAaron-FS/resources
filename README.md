@@ -50,6 +50,58 @@ My personally curated collection of web design and development resources! (Updat
 
 - [VS Code](https://code.visualstudio.com/)
 
+#### VS Code Extensions
+
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+- [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+
+- [GitHub Classroom](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom)
+
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+
+- [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
 ### Education
 
 - [W3C](https://www.w3.org/)
@@ -59,6 +111,12 @@ My personally curated collection of web design and development resources! (Updat
 - [Codecademy Docs](https://www.codecademy.com/resources/docs)
 
 - [Codecademy](https://www.codecademy.com/learn)
+
+- [W3Schools](https://www.w3schools.com/)
+
+- [CSS Tricks](https://css-tricks.com/)
+
+- [Stack Overflow](https://stackoverflow.com/)
 
 ### Challenges
 
@@ -95,6 +153,14 @@ My personally curated collection of web design and development resources! (Updat
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/)
+
+### Version Control
+
+- [Git](https://git-scm.com/)
+
+- [GitHub](https://github.com/)
+
+- [GitHub Desktop](https://desktop.github.com/)
 
 ### Find Work
 
