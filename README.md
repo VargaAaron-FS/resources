@@ -168,9 +168,11 @@ My personally curated collection of web design and development resources! (Updat
 
 - [Sass](https://sass-lang.com/)
 
-### CSS Frameworks
+### Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com/)
+
+- [Bootstrap](https://getbootstrap.com/)
 
 ### Fonts
 
