@@ -168,11 +168,17 @@ My personally curated collection of web design and development resources! (Updat
 
 - [Sass](https://sass-lang.com/)
 
+- [Less](https://lesscss.org/)
+
 ### Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com/)
 
 - [Bootstrap](https://getbootstrap.com/)
+
+- [React](https://reactjs.org/)
+
+- [Express](https://expressjs.com/)
 
 ### Fonts
 
